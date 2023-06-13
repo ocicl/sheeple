@@ -1,0 +1,10 @@
+* sheeple
+
+Cheeky prototypes for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zkat/sheeple.git   |
+| commit  | 5393c74  |
+| systems | sheeple |
+|---------+-------------------------------------------|
+
